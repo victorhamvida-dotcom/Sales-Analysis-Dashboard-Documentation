@@ -1,6 +1,6 @@
 # 💼Sales Analysis Dashboard
 This dashboard analyzes sales performance across multiple dimensions account managers, states, cities, and months  to provide a comprehensive view of business trends and revenue drivers. It highlights total orders, quantity sold, and revenue generated between 2013 and 2017, helping management identify top performers and regional opportunities.
-# Tools EXCEL
+# Tool USED EXCEL
 ## Table of Contents
 #### 1.	[Executive Summary](https://github.com/victorhamvida-dotcom/-Sales-Analysis-Dashboard-Documentation#1-executive-summary)
 #### 2.	[Business Problem](https://github.com/victorhamvida-dotcom/-Sales-Analysis-Dashboard-Documentation#2-business-problem)
